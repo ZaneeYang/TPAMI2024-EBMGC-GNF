@@ -1,6 +1,6 @@
 # EBMGC-GNF: Efficient Balanced Multi-view Graph Clustering via Good Neighbor Fusion
 
-This is the official implementation of our TPAMI-2024 paper _EBMGC-GNF: Efficient Balanced Multi-view Graph Clustering via Good Neighbor Fusion_.
+This is the official implementation of our [TPAMI-2024] paper [EBMGC-GNF: Efficient Balanced Multi-view Graph Clustering via Good Neighbor Fusion](https://ieeexplore.ieee.org/document/10522848).
 
 ![Framework](imgs/framework.png)
 
